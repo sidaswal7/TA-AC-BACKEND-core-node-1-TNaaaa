@@ -3,8 +3,9 @@ function square(x){
     return x*x;
 }
 console.log(square(5));
+
+let sum = 0;
 for(i=1;i<10;i++){
-    let sum = 0;
-    sum = sum+i
-    console.log(sum)
+    sum = sum+i;
 }
+console.log(sum);
