@@ -17,7 +17,7 @@ Q. Write 2 different methods for creating buffer in nodejs using Buffer class.
 - create a fixed length buffer of 12.
 - write code to convert buffer back to string.
 
-Q. Write code example to demonstrate blocking and non-blocking code.
+Q. Write code example to demonstrate blocking and non-blocking code.hhjgk
 
 #### http protocol
 
