@@ -4,6 +4,6 @@ writeCode
 2. write code to console
   - request headers
   - request method and url
-3. request from browser on `http://localhost:3000/about`
+3. request from browser on `http://localhost:3000/about` mhjhghjgj
 
 
